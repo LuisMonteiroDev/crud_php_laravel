@@ -7,7 +7,7 @@
     <link rel='stylesheet' href="{{ asset('assets/css/styles.css') }}">
 </head>
 <body>
-    <h1>testting</h1>
+    <h1>Crud Laravel</h1>
     <div class="container">
         @yield('content')
     </div>
